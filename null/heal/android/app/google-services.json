@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461801634933",
+    "project_id": "step-c6a0c",
+    "storage_bucket": "step-c6a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461801634933:android:df938add2b85c1173a8c3c",
+        "android_client_info": {
+          "package_name": "com.example.heal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461801634933-6rn9rqvv3b6aoeg7ki6kfc00egdvrpaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrgeYqbLKKY0o5hH31qjVQv8RN1-1ago"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461801634933-6rn9rqvv3b6aoeg7ki6kfc00egdvrpaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
